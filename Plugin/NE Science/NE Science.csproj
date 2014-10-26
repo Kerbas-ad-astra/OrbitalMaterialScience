@@ -31,17 +31,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="System" />
     <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\..\KSP_0242\KSP_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <HintPath>..\..\..\KSP_025\KSP_Data\Managed\Assembly-CSharp.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="StationScience">
-      <HintPath>..\..\..\KSP_0242\GameData\StationScience\Plugins\StationScience.dll</HintPath>
+      <HintPath>..\..\..\KSP_025\GameData\StationScience\Plugins\StationScience.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="System" />
     <Reference Include="UnityEngine">
-      <HintPath>..\..\..\KSP_0242\KSP_Data\Managed\UnityEngine.dll</HintPath>
+      <HintPath>..\..\..\KSP_025\KSP_Data\Managed\UnityEngine.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>
